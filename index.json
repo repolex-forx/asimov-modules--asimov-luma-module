@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-luma-module",
+  "versions": [
+    {
+      "commit": "16c47ee566023ab68743632572eec835f5e58c12",
+      "tag": "0.1.4",
+      "parsed_at": "2026-09-28T07:32:53.177798+00:00"
+    }
+  ]
+}
